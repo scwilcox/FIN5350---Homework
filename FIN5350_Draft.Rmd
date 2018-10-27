@@ -1,0 +1,72 @@
+---
+output: 
+  pdf_document:
+    citation_package: natbib
+    keep_tex: true
+    fig_caption: true
+    latex_engine: pdflatex
+    template: ./svm-latex-ms.tex
+title: "Economists Should Empower Individuals"
+author: 
+- name: Scott Wilcox
+  affiliation: Utah State University 
+abstract: "Buchanan argues that economists should focus on exchange and institutions of exchange rather than the actual allocation of resources. In essence, he argues that economists be tasked with building frameworks and models to help solve economic problems rather than solving the problems on their own. I agree with Buchanan and recommend that economists should develop frameworks and allow individuals to use these frameworks to solve their own economic problems."
+keywords: "Efficient Markets, Buchanan"
+date: "`r format(Sys.time(), '%B %d, %Y')`"
+geometry: margin=1in
+fontfamily: mathpazo
+fontsize: 11pt
+spacing: double
+bibliography: ./master.bib
+biblio-style: apsr
+---
+
+>  
+
+# Introduction
+
+Buchanan argues that economists should focus on exchange and institutions of exchange rather than the actual allocation of resources. In essence, he argues that economists be tasked with building frameworks and models to help solve economic problems rather than solving the problems on their own. “The proper role of the economist is not providing the means of making ‘better’ choices.” Frank Ward: “The study of economics won’t keep you out of the breadline; but at least you’ll know why you’re there.” Buchanan paraphrases: “Concentration on methodology won’t solve any of the problems for you, but at least you should know what the problems are.”
+
+I agree with Buchanan and recommend that economists should develop frameworks and allow individuals to use these frameworks to solve their own economic problems. Computational economists and financiers may take on a heavier burden than the typical economist as computational specialists should be tasked to take on large scale problems that require heavy quantitative action. However, no economists should be tasked with making decisions for the society.
+
+## Subsection 1
+
+1 – Discussion of economic thought that economists SHOULD develop for the average, everyday individual; further, discuss complex frameworks computational economists ought to take on
+
+## Subsection 2 
+
+2 – Discussion on the importance of individual decision making rather than economist decision making. Discuss individuals that behave rationally by trading and exchanging with others. Build efficient markets.
+
+## Subsection 3
+
+3 – Actionable movements to take place: Has there been research done on this topic? Could a research project be planned? What further information is necessary?
+
+## Subsection 4
+
+4 – Rebuttal: politicians vs. economists; would a former economist turned politician be better economically than a typical politician?
+
+# Summary and Conclusion
+
+5 – Conclusion of opinion and demonstration of action plan
+
+# Sources to use
+
+Four sources provided below. I will continue to search for more sources that will support my opinion on efficient markets.
+
+Buchanan: "What Should Economists Do?" - Used to summarize the main point and add evidence to Buchanan's opinion. I will also pull from Buchanan's reference to Robinson Crusoe to illustrate trade and exchange.
+
+F.A. Hayek: "The Use of Knowledge in Society" - Used to show importance of improved efficient markets through the disemination of information
+
+"Natural and Artifactual Man" - I may pull from this short article to illustrate the nonnecessity of economists to maximize individuals' utility and instead develop frameworks to enable an individual to maximize for himself
+
+Peter J. Boettke: "What should classical liberal political economists do?" - This article was written as a supporting piece to Buchanan's original and continues Buchanan's argument for economists to focus on exchange and institutions rather than allocation of resources
+
+<!--
+# References
+\setlength{\parindent}{-0.2in}
+\setlength{\leftskip}{0.2in}
+\setlength{\parskip}{8pt}
+\vspace*{-0.2in}
+\noindent
+-->
+
