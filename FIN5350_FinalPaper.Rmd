@@ -1,0 +1,68 @@
+---
+title: "This is What Economists Should Do"
+author:
+- affiliation: Utah State University
+  name: Scott C. Wilcox
+date: "`r format(Sys.time(), '%B %d, %Y')`"
+output:
+  html_document:
+    df_print: paged
+  pdf_document:
+    citation_package: natbib
+    fig_caption: yes
+    keep_tex: yes
+    latex_engine: pdflatex
+    template: ./svm-latex-ms.tex
+  word_document: default
+biblio-style: apsr
+fontfamily: mathpazo
+fontsize: 11pt
+geometry: margin=1in
+keywords: Computational finance, Buchanan, economic decision making
+bibliography: ./master.bib
+spacing: double
+---
+
+
+>  
+
+#Abstract
+Buchanan argues that economists should focus on exchange and institutions of exchange rather than the actual allocation of resources. In essence, he argues that economists be tasked with building frameworks and models to help solve economic problems rather than solving the problems on their own. “The proper role of the economist is not providing the means of making ‘better’ choices.” Frank Ward: “The study of economics won’t keep you out of the breadline; but at least you’ll know why you’re there.” Buchanan paraphrases: “Concentration on methodology won’t solve any of the problems for you, but at least you should know what the problems are.”
+
+I agree with Buchanan and recommend that economists should develop frameworks and allow individuals to use these frameworks to solve their own economic problems. Computational economists and financiers may take on a heavier burden than the typical economist as computational specialists should be tasked to take on large scale problems that require heavy quantitative action. However, no economists should be tasked with making decisions for the society.
+
+#Introduction
+Computational finance has been defined as a quantitative study of finance and economics using complex methods in mathematics, statistics, and computer science. Many claim computational finance to be an arm of computer science that is focused on financial issues. In his paper “What Should Economists Do?”, James M. Buchanan argues that economists should focus on exchange and institutions of exchange rather than the actual allocation of resources. In essence, he argues that economists be tasked with building frameworks and models to help solve economic problems rather than solving the problems on their own.@Buchanan1979
+
+I wish to further Buchanan’s points by suggesting the following question: “What should computational financial analysts do?” I believe this question can be answered using Buchanan’s logic. Economists should develop frameworks and allow individuals to use these frameworks to solve their own economic problems. Computational economists and financiers may take on a heavier burden than the typical economist as computational specialists should be tasked to take on large scale problems that require heavy quantitative action. However, no economists should be tasked with making decisions for the society. This paper will begin with a discussion of economic thought and models that economists should develop for the benefit of society, followed by a discussion on the importance of individual decision making rather than economist decision making. We then explore actionable movements that can take place to achieve this shift from emphasis on the economist to emphasis on the individual.
+
+#The Economist's Role
+Economists have been argued to be among the sharpest and most expansive minds in the world. They tend to receive lengthy educations and extensive wages. However, it is unrealistic to believe that one economist, or all economists collectively for that matter, possess all the knowledge in the world about the development and drivers of financial markets. Further, no one could argue that economists can completely predict the future, which is often necessary to receive abnormal profits in financial markets. F. A. Hayek wrote in his piece “The Use of Knowledge in Society” notes that “the peculiar character of the problem of a rational economic order is determined precisely by the fact that the knowledge of the circumstances of which we must make use never exists in concentrated or integrated form, but solely as the dispersed bits of incomplete and frequently contradictory knowledge which all the separate individuals possess.” @Hayek1945 Here, Hayek is emphasizing that not a single economist or group of economists is given all the information necessary to make every choice for society. He says that society’s problem is not only a problem of “how to allocate resources” but how to “secure the best use of resources known to any of the members of society.” Hayek is effectively arguing that any member of society can make influential economic decisions, not only economists, and are perhaps equipped just as well to do so.
+
+Before we go further into discussing these economic decisions that individuals ought to make, allow me to first make my case for the economist. Trained economists obviously know more than the average individual about the frameworks of economic theory: supply and demand, trade policy, comparative advantage, and all the other topics discussed in a college Economics 100 course. Thus, trained economists should further develop these frameworks for the use of society. These frameworks can be applied to large scale economic problems far too complex for the average Joe off the street. Popular modern economists such as Thaler and Kahneman have performed immeasurable good for society in developing provoking economic models and theories in psychology and behavior. Trained economists ought to continue to make such groundbreaking discoveries in an attempt to educate and guide society in making rational, optimal, and efficient solutions.
+
+#The Individual's Role
+However, it is not rational to believe that economists are omnipotent enough to make all economic decisions for society, nor is it possible. Assuming so would be assuming that a finite resource could make decisions of an infinitely many number in an infinite universe. Thus, it ought to be left to the individuals in society to make personal decisions. In most cases, society does not wish for someone to make their decisions for them, they want the ability to make their own decisions, whether optimal or not. Buchanan wrote this in another way in his “Natural and Artifactual Man”: “Man does not want liberty in order to maximize his utility, or that of the society of which he is a part. He wants liberty to become the man he wants to become.” @Buchanan1999 Society does not want decisions made by the economists; they want decisions made by themselves.
+
+In this manner, the relationship between economists and society is much like that of a father and son: the son wishes to make his own decisions, perhaps unknowing of the consequences of such decisions or their inefficiencies. However, the father cannot make the decisions for the son; otherwise, the son would never grow to learn the consequences of his actions. Economists ought to develop big picture models and frameworks to discuss how economic issues ought to be framed and thought through; at this point, however, power should be turned to the individuals to make economic decisions.
+
+#Practical Example
+Practically, this shift may be easier said than done. While most individual economic decisions (how much to spend on groceries, where to attend university, etc.) are made by individuals, many macroeconomic decisions affecting billions around the world are made by small groups of economists. It is a committee of economists, for instance, that set the optimal inflation and interest rates in the United States. Of course we can argue that these economists know far more about these important variables than most Americans. However, shouldn’t the people of America deserve a say in the benchmark for such crucial economic drivers? This is exactly the point I wish to make: the optimal design for United States economic policy would be for this committee of economists to educate the American people (hopefully a willing American people) on these crucial variables, then allow the people to take a vote on the benchmark level. Sure, this design is unlikely and perhaps unrealistic. However, hopefully the reader can discern the lack of the people’s participation in such crucial economic decisions.
+
+#What Should Computational Analysts Do?
+To re-focus on the point of this article, computational financial and economic analysts play a critical role in the efficiency of society. It is up to them to solve the complex, quantitative problems that most people, including most economists, cannot answer. It is their job to find short, simple solutions to these complex problems and present them in a way that the average person can understand. In this way, computational analysts also develop economic frameworks for the education and guidance of society. Perhaps the strongest evidence to this fact is the role these analysts play in making financial markets efficient. Market efficiency is crucial to uphold the integrity of the investment industry. Investors are less keen to invest in a market they consider to be rigged, especially toward those that develop complex models that most people cannot understand. Computational analysts can help bridge this gap by developing complex models to price investment vehicles and their performance, then converting them to a usable format for the average investor. This process would create a boost for market efficiency that would further build trust in the financial services industry.
+
+#Conclusion
+Economists and economic thought are crucial for a functioning society. With information so easily accessible and distributed, economists are needed more than ever to educate society on making economic decisions. Once educated, society can then make their own decisions with regard to economic issues, giving them “the liberty to become” which they truly yearn for.
+
+## Bibliography
+
+<!--
+# References
+\setlength{\parindent}{-0.2in}
+\setlength{\leftskip}{0.2in}
+\setlength{\parskip}{8pt}
+\vspace*{-0.2in}
+\noindent
+-->
+
